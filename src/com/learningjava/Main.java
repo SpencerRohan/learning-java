@@ -18,5 +18,7 @@ public class Main {
                     System.getProperty(propertyName));
         }
 
+        System.out.print("This is a test");
+
     }
 }
